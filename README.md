@@ -12,6 +12,9 @@ look at and build in the park **you are playing right now**. Ask things like:
 and the agent reads the game state, plans the build, and makes it in your running game, paid for from the
 park's cash, exactly as if you had placed the pieces yourself.
 
+<img width="1646" height="955" alt="image" src="https://github.com/user-attachments/assets/fc824531-51ef-4c07-85f6-1b95a783bd80" />
+
+
 ## How it works
 
 ```
